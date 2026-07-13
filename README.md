@@ -47,3 +47,20 @@ chmod +x run_attack_hypnotism.sh
 #### Run `ollama.py` to see the ASP for downloaded open-source LLMs
 
 #### Run `asp.py` for the automatic evaluation
+
+
+## Citation
+
+If you use this work, please cite:
+
+```bibtex
+@misc{wang2025promptsafe,
+  title={Is Your Prompt Safe? Investigating Prompt Injection Attacks Against Open-Source LLMs},
+  author={Jiawen Wang and others},
+  year={2025},
+  eprint={2505.14368},
+  archivePrefix={arXiv},
+  primaryClass={cs.CR}
+}
+```
+
