@@ -54,13 +54,14 @@ chmod +x run_attack_hypnotism.sh
 If you use this work, please cite:
 
 ```bibtex
-@misc{wang2025promptsafe,
-  title={Is Your Prompt Safe? Investigating Prompt Injection Attacks Against Open-Source LLMs},
-  author={Jiawen Wang and others},
-  year={2025},
-  eprint={2505.14368},
-  archivePrefix={arXiv},
-  primaryClass={cs.CR}
+@misc{wang2026asraspevaluatingprompt,
+      title={From ASR to ASP: Evaluating Prompt Attack Vulnerabilities Against Open-Source LLMs}, 
+      author={Jiawen Wang and Pritha Gupta and Ivan Habernal and Eyke Hüllermeier and Xiaoxue Gao and Nancy F. Chen},
+      year={2026},
+      eprint={2505.14368},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2505.14368}, 
 }
 ```
 
